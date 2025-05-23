@@ -105,7 +105,12 @@ nav, ul, a:hover{
      width: 180px;
     height: 64px;
 }
-
+.popular-hade-taxt{
+    padding-top: 200px;
+}
+.popular-content{
+    padding-bottom: 200px;
+}
 .hero-button-group-headding{
     color: #171100;
     font-family: Poppins;
@@ -451,6 +456,7 @@ margin-top: 18px;
 }
 .thinking-content{
     padding-top: 200px;
+    padding-bottom: 200px;
 }
 .thinking-img1{
     margin-top: -34px;
